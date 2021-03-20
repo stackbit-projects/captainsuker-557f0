@@ -5,9 +5,10 @@ sections:
     type: section_hero
     title: CaptainSuker
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      产品经理（Product Manager）是企业中专门负责产品管理的职位，产品经理负责市场调查并根据产品、市场及用户等的需求，
+      确定开发何种产品，选择何种业务模式、商业模式等。并推动相应产品的开发组织，他还要根据产品的生命周期，协调研发、营销、
+      运营等，确定和组织实施相应的产品策略，以及其他一系列相关的产品管理活动。
     actions:
       - label: Get Started
         url: /docs
